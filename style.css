@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+    font-family: "Open Sans", serif;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.sasa{
+    color: rgba(222, 46, 84, 1);
+}
+.soso{
+    color: black;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 110px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+.koko{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 40px;
+}
+.lili{
+    background-color: white;
+    color: red;
+    border: 2px red solid;
+width: 189;
+height: 47;
+width: 189;
+height: 47;
+border-radius: 8px;
+border-width: 2px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+}
+.wewe{
+    background-image: url("./image\ 4\ \(1\).png");
+    width: 1440px;
+height: 533px;
+top: 98px;
+display: flex;
+justify-content: center;
+display: flex;
+justify-content:space-evenly;
+text-align:;
+}
+.yuyu{
+  width: 423px;
+  height: 482.2836608886719px;
+  top: 148.72px;
+  left: 869px;
+}
+.tete{
+   margin: 200px;
+}
+.rera{
+    color: white;
+    width: 500px;
+height: 82.29444122314453px;
+top: 235.8px;
+left: 170px;
+font-size: 25px;
+}
+.dada{
+    background-color: rgba(222, 46, 84, 0.8);
+    width: 189px;
+height: 47px;
+top: 367px;
+left: 170px;
+border-radius: 8px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+color: white;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+}
+.fifa{
+    color: black;
+    width: 600px;
+height: 96px;
+
+}
+.dad{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content:center;
+    font-family: "Open Sans", serif;
+}
+.mum{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.ota{
+    width: 1440px;
+height: 669px;
+top: 1447px;
+left: 1px;
+background-color: rgba(14, 180, 193, 1);
+margin-top: 100px;
+display: flex;
+gap: 50px;
+justify-content: space-around;
+align-items: center;
+}
+iframe{
+    width: 540px;
+height: 331px;
+top: 1685px;
+left: 157px;
+border-radius: 10px;
+}
+h3{
+    text-align:start
+ }
+ 
+.bola{
+    width: 540px;
+    height: 331px;
+    top: 1685px;
+    left: 738px;
+    background-color: white;
+    border-radius: 10px;
+    gap: 20px;
+
+}
+input{
+    width: 460px;
+    height: 39.10548400878906px;
+top: 27.93px;
+left: 40px;
+border-radius: 5px;
+}
+.yappi{
+    width: 460px;
+    height: 39.10548400878906px;
+    top: 240px;
+    left: 40px;
+    border-radius: 5px;
+    background-color: rgba(56, 204, 139, 1);
+color: white;
+}
+.biba{
+    width: 1440px;
+height: 97.93565368652344px;
+top: 2116px;
+padding: 24px;
+background-color: black;
+
+}
+.sosq{
+    color:white;
+}
+.ytyt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+a{
+    display: flex;
+}
+.ioio{
+    width: 1100px;
+height: 49.93564987182617px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 25px;
+}
+.joja{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-between;
+}
